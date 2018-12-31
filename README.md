@@ -4,6 +4,7 @@ This app is a demo of an internal web / desktop tool used to list a food supplie
 Users can select items from the left-hand sidebar, and have them appear in the Menu preview.
 
 # Preview
+![](menu.gif)
 
 # Demo
 
