@@ -1,6 +1,6 @@
 # Meal Menu
 
-This app is a demo of an internal web tool used to list a food supplier's items.
+This app is a demo of an internal web / desktop tool used to list a food supplier's items.
 Users can select items from the left-hand sidebar, and have them appear in the Menu preview.
 
 # Preview
