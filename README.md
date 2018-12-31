@@ -13,7 +13,7 @@ Users can select items from the left-hand sidebar, and have them appear in the M
 
 A user can: 
 
-- Populate items in the left-hand sidebar with data from `items.js`.
+- Populate items in theterminal left-hand sidebar with data from `items.js`.
 - Select items in the left-hand sidebar, and have them appear in the Menu Preview on the right hand side.
 - Remove items from the menu by clicking the (x)
 - See the total number of selected items in the header
@@ -21,6 +21,6 @@ A user can:
 
 # Installation
 
-- Open your terminal
+- Open your terminal and clone the project
 - ```cd``` into the directory, then run ```npm install```
 - Run ```npm start```
