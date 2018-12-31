@@ -1,7 +1,6 @@
 # Meal Selector
 
-This app is a demo of an internal web tool used to list a food supplier's items.
-Users can select items from the left-hand sidebar, and have them appear in the Menu preview.
+Select meals from left-hand sidebar, have them appear in the Menu preview and see the calculated allergens at the top. 
 Built with React, Redux and styled with Bootstrap4.
 
 # Preview
