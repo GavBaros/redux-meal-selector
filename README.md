@@ -14,7 +14,7 @@ Built with React, Redux and styled with Bootstrap4.
 
 A user can: 
 
-- Populate items in theterminal left-hand sidebar with data from `items.js`.
+- Populate items in the left-hand sidebar with data from `items.js`.
 - Select items in the left-hand sidebar, and have them appear in the Menu Preview on the right hand side.
 - Remove items from the menu by clicking the (x)
 - See the total number of selected items in the header
