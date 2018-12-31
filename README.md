@@ -1,7 +1,14 @@
 # Meal Menu
 
-This app contains a static mock of an internal tool used to build sub-menus from a supplier's items.
+This app is a demo of an internal web tool used to list a food supplier's items.
 Users can select items from the left-hand sidebar, and have them appear in the Menu preview.
+
+# Preview
+
+# Demo
+
+
+# Features
 
 A user can: 
 
@@ -11,3 +18,8 @@ A user can:
 - See the total number of selected items in the header
 - See the total number of each dietary type selected in the header
 
+# Installation
+
+- Open your terminal
+- ```cd``` into the directory, then run ```npm install```
+- Run ```npm start```
