@@ -1,5 +1,10 @@
 # Meal Selector
 
+![](https://img.shields.io/github/last-commit/GavBaros/redux-meal-selector.svg?style=flat)
+![](https://img.shields.io/github/repo-size/GavBaros/redux-meal-selector.svg?style=flat)
+![](https://img.shields.io/david/GavBaros/redux-meal-selector.svg?style=flat)
+
+
 Select meals from left-hand sidebar, have them appear in the Menu preview and see the calculated allergens at the top. 
 Built with React, Redux and styled with Bootstrap4.
 
